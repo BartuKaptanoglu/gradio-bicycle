@@ -4,8 +4,7 @@ from inference.models.utils import get_roboflow_model
 import gradio as gr
 from PIL import Image
 
-model = get_roboflow_model(model_id="object-xos6g/2", api_key="RZuthAj7pTSv5sx7l4sg")
-
+model = get_roboflow_model(model_id="object-xos6g/2", api_key="#####")
 
 def func(image_path):
     image = cv2.imread(image_path)
@@ -25,5 +24,5 @@ def func(image_path):
     return gr.Plot(im)
 
 
-demo = gr.Interface(func, gr.Image(type="filepath"), outputs="image")
+demo = gr.Interface(func, gr.Image(type="filepath"), outputs="image",title="Yolo bike")
 demo.launch(debug=True)
