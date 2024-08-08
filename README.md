@@ -11,7 +11,7 @@ This app is up and running on Streamlit cloud server. You can check the demo of 
 
 ### Home page
 
-<img src="https://github.com/BartuKaptanoglu/gradio-bicycle" >
+<img src="https://raw.githubusercontent.com/BartuKaptanoglu/gradio-bicycle/main/Screenshot%202024-08-08%20at%2016.22.03.png" >
 
 
 ## Requirements
