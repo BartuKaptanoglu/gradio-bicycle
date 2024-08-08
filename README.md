@@ -3,10 +3,7 @@ This repository is a comprehensive open-source project that demonstrates the int
 
 ## Demo WebApp
 
-This app is up and running on Streamlit cloud server. You can check the demo of this web application on the link below.
-
-[yolov8-streamlit-bicycle-detection-webapp](https://your-streamlit-app-url.com/)
-
+This app is up and running on huggingface spaces: https://huggingface.co/spaces/NeyseTecrubeOldu/m
 ## Demo Pics
 
 ### Home page
